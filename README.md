@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Helooo,Im Bethwel...<br>.Self tought Software Developer<br>.HTML | CSS |PHP| Js | Bootstrap | Python |<br>.Eager To learn </Building something out of nothing><br><br>Let's Connect!<br>I'm eager to collaborate and create amazing things!<br><br>✉️ Email: kiplagat23.bethwel@student.cuk.ac.ke (Open to collaborations/mentorship)<br><br>Thank you for visiting!
+👋 Helooo,Im Bethwel...<br>.Self tought Software Developer.Eager To learn </Building something out of nothing><br><br>Let's Connect!<br>
 
 
 ## 🌐 Socials:
