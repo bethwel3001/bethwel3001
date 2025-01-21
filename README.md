@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #008afa;">👋 Hey, I'm Bethwel Kiplagat !</h1>
+  <h1 style="color:rgb(87, 250, 0);"> Hello world,👋 I'm Bethwel Kiplagat !</h1>
 
 <a href="https://git.io/typing-svg"><img
 src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=500&lines=I am a Full-stack+web+developer+;Flask+enthusiast+;Php+python+React+;Let's+Code+together+"
@@ -20,10 +20,10 @@ alt="Typing SVG" /></a>
       <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
     </a>
     <a href="https://x.com/am_kiplagat?t=8u6gcZDTGFezIiZhEp_paQ&s=09"></a>
-    <!-- <a href="https://wa.link/6jqex1">
+    <a href="https://wa.me/254759112532?text=Hello%20Dev%20Bethwel?%20%20Your%20service%20is%20needed%20in...">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
-    <a href="https://wa.link/6jqex1">  </a> -->
+    <a href="https://wa.me/254759112532?text=Hello%20Dev%20Bethwel?%20%20Your%20service%20is%20needed%20in...">  </a>
   </p>
   
   <p>
