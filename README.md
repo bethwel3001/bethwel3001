@@ -1,7 +1,7 @@
 <div align="center">
   <h2 style="color:rgb(99, 245, 21);"> Hi there👋</h2>
 
-Iam a developer who enjoys tackling frontend challenges(im also do fullstack btw). Building stuff from scratch or improving existing code is where I shine!
+Iam a developer who enjoys tackling frontend challenges(im also do fullstack btw).Building stuff from scratch or improving existing code is where I shine!
 
 I've built projects like my [Portfolio](https://bethwel-lagat.netlify.app/), tools like [Eventify:](https://shiny-buttercream-f01411.netlify.app/) and others.
 
@@ -20,19 +20,17 @@ List of the technologies and tools i work with:
 ## **My Projects**:
 Here are some of my projects:
 
-| **Project**                                                                                      | **Overview**                                                                                          | **Link**                           |
-|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **Eventify**                                                                        | Eventify is an application designed to simplify the process of discovering, hosting, and managing events. It combines a sleek, user-friendly frontend with a powerful backend, offering seamless functionality and a visually appealing experience across devices. Built with a full-stack approach, Eventify ensures efficiency, scalability, and ease of use. | [Repo](https://github.com/bethwel3001/Eventify---Event-booking-platform.git) \| [Eventify](https://shiny-buttercream-f01411.netlify.app/)|
+ | **Project Name**                                                                                      | **Description**                                                                                          | **Repository**                           |
+ |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
+ | **Eventify**                                                                                             | Eventify is a modern and interactive web application designed to simplify the process of discovering, hosting, and managing events. It combines a sleek, user-friendly frontend with a powerful backend, offering seamless functionality and a visually appealing experience across all devices. Built with a full-stack approach, Eventify ensures efficiency, scalability, and ease of use. | [GitHub Repo](https://github.com/bethwel3001/Raccoon-challenge-2.git) |
+ | **Eventify**                                                                                             | Eventify is a modern and interactive web application designed to simplify the process of discovering, hosting, and managing events. It combines a sleek, user-friendly frontend with a powerful backend, offering seamless functionality and a visually appealing experience across all devices. Built with a full-stack approach, Eventify ensures efficiency, scalability, and ease of use. | [GitHub Repo](https://github.com/bethwel3001/Raccoon-challenge-2.git) \| [Live Demo](https://shiny-buttercream-f01411.netlify.app/)   |
+ | **Hotel booking**                                                                                             | a web-based application that allows users to browse, view, and book rooms in a hotel. This project provides a simple, interactive interface for customers to book rooms based on different categories and includes features for user authentication, booking management, and a streamlined booking experience. | [GitHub Repo](https://github.com/bethwel3001/Hotel-booking.git)|
+ | **Project Connect-Link**                                                                                          | This is a web app that connects youths/volunterrs to opportunities and vice versa Built in HTML, CSS, JAVASCRIPT for frontend and Python, Flask for backend with MySql for the database part, this project was agamechanger for my journey as an apprentice software engineer | [GitHub Repo](https://github.com/bethwel3001/Preject-Connect-Link.git) \| [Live Demo](https://shiny-buttercream-f01411.netlify.app/)  |
+ | **Project Fundi**                                                                                       | This project is a Python-based web scraper that is made with Flask for the backend and mysql databse, it extracts data from various websites, processes the content, and outputs it in a structured format. It is ideal for data analysis, market research, and gathering product information. | [GitHub Repo](https://github.com/bethwel3001/Project-web-scrapper.git) \| [Live Demo]() |
+ | **Project Connect-Link**                                                                                          | This is a web app that connects youths/volunterrs to opportunities and vice versa Built in HTML, CSS, JAVASCRIPT for frontend and Python, Flask for backend with MySql for the database part, this project was agamechanger for my journey as an apprentice software engineer | [GitHub Repo](https://github.com/bethwel3001/Preject-Connect-Link.git)|
+ | **Project Fundi**                                                                                       | This project is a Python-based web scraper that is made with Flask for the backend and mysql databse, it extracts data from various websites, processes the content, and outputs it in a structured format. It is ideal for data analysis, market research, and gathering product information. | [GitHub Repo](https://github.com/bethwel3001/Project-web-scrapper.git)|
 
-| **Hotel  booking**                                                                           | 
-A Web-based application that allows users to browse, view, and book rooms in a hotel. Features: A simple, interactive interface for customers to book rooms based on different categories and includes features for user authentication. | [Hotel](https://github.com/bethwel3001/Hotel-booking.git)|
-
-| **Connect-Link**                                                                      | This is a web app that connects youths/volunterrs to opportunities and vice versa Built Javascript for frontend and Flask for backend with MySQL for the database part.| [Connect](https://github.com/bethwel3001/Preject-Connect-Link.git)|
-
-| **Fundi**                                                                             | Web scraper made with Flask for the backend and MySQL database, it extracts data from various websites, processes the content, and outputs it in a structured format. It is ideal for data analysis, market research, and gathering product information. | [Fundi](https://github.com/bethwel3001/Project-web-scrapper.git)|
-
-
-<!-- ## **Stats & Activity**
+## **Stats & Activity**
 | ![Stats](https://github-readme-stats.vercel.app/api?username=bethwel3001&show_icons=true&theme=github_dark&count_private=true) |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![Streak](https://streak-stats.demolab.com?user=bethwel3001&theme=github_dark&hide_border=true)                                                                   | -->
+| ![Streak](https://streak-stats.demolab.com?user=bethwel3001&theme=github_dark&hide_border=true)                                                                   |
