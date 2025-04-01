@@ -11,10 +11,76 @@ Let’s collaborate in open source and crate something amazing.</p>
 ## **Tools & Stack:**
 List of the technologies and tools i work with:
 
-|                           |                           |                           |                           |                           |                           |                           |
-|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) | [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) | [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) | [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |                           |                           |                           |                           |
+## 🛠️ **Tech Stack**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+      <br>Svelte
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Linux" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Linux" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Vue" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+  </tr>
+</table>
 ----------------
 
 ## **My Projects**:
