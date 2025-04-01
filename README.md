@@ -8,9 +8,6 @@ I've built projects like my [Portfolio](https://bethwel-lagat.netlify.app/), too
 Let’s collaborate in open source and crate something amazing.</p>
 
 ---
-## **Tools & Stack:**
-List of the technologies and tools i work with:
-
 ## 🛠️ **Tech Stack**
 
 <table align="center">
@@ -81,15 +78,3 @@ List of the technologies and tools i work with:
     </td>
   </tr>
 </table>
-----------------
-
-## **My Projects**:
-Here are some of my projects:
-
- | **Project Name**                                                                                      | **Description**                                                                                          | **Repository**                           |
- |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
-
- | **Eventify**                                                                                             | Eventify is a modern and interactive web application designed to simplify the process of discovering, hosting, and managing events. It combines a sleek, user-friendly frontend with a powerful backend, offering seamless functionality and a visually appealing experience across all devices. Built with a full-stack approach, Eventify ensures efficiency, scalability, and ease of use. | [GitHub Repo](https://github.com/bethwel3001/Raccoon-challenge-2.git) \| [Live Demo](https://shiny-buttercream-f01411.netlify.app/)   |
- 
- | **Project Connect-Link**                                                                                          | Web app that connects youths/volunterrs to opportunities and vice versa Built with Javascript for frontend Flask for backend & MySql for the database part. | [Repo](https://github.com/bethwel3001/Preject-Connect-Link.git)|
- | **Project Fundi**                                                                                       | Python-based web scraper that is made with Flask for the backend and mysql databse, it extracts data from various websites, processes the content, and outputs it in a structured format. It is ideal for data analysis, market research, and gathering product information. | [Repo](https://github.com/bethwel3001/Project-web-scrapper.git)|
