@@ -1,17 +1,17 @@
-<div align="center">
-  <h2 style="color:rgb(99, 245, 21);"> Hi there👋</h2>
+<div align="">
+  <h2 style="color:rgb(99, 245, 21);"> Hi there👋, Be Tu here.</h2>
 
-Iam a developer who enjoys tackling frontend challenges(im also do fullstack btw).Building stuff from scratch or improving existing code is where I shine!
-
-I've built projects like my [Portfolio](https://bethwel-lagat.netlify.app/), tools like [Eventify:](https://shiny-buttercream-f01411.netlify.app/) and others.
-
+Iam a Software Developer who enjoys tackling frontend challenges(I also do fullstack btw).
+<br />
 Let’s collaborate in open source and crate something amazing.</p>
 
 ---
-## 🛠️ **Tech Stack**
-
 <table align="center">
   <tr>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Vue" />
+      <br>React
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
@@ -31,6 +31,10 @@ Let’s collaborate in open source and crate something amazing.</p>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
       <br>Svelte
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
   </tr>
   <tr>
@@ -54,27 +58,14 @@ Let’s collaborate in open source and crate something amazing.</p>
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Linux" />
       <br>Python
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Vue" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
       <br>Netlify
     </td>
   </tr>
+
 </table>
