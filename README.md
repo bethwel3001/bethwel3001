@@ -1,9 +1,9 @@
 <div align="">
-  <h2 style="color:rgb(99, 245, 21);"> Hi there👋, I' am Be Tu.</h2>
+  <h2 style="color:rgb(99, 245, 21);"> Hi there, I' am Be Tu.</h2>
 
 Iam a Software Developer who enjoys tackling frontend challenges (I also do fullstack btw).
 <br />
-Let’s collaborate in open source and crate something amazing.</p>
+--------------------------Let’s collaborate in open source and crate something amazing.---------------------------------------------</p>
 
 ---
 <table align="center">
@@ -12,10 +12,10 @@ Let’s collaborate in open source and crate something amazing.</p>
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Vue" />
       <br>React
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-    </td> -->
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
@@ -42,30 +42,30 @@ Let’s collaborate in open source and crate something amazing.</p>
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
-    </td> -->
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Linux" />
       <br>Flask
-    </td> -->
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Linux" />
       <br>Python
     </td>
-     <!-- <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-    </td> -->
-    <!-- <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
       <br>Netlify
-    </td> -->
+    </td>
   </tr>
 
 </table>
