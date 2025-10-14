@@ -1,9 +1,8 @@
 <div align="">
-  <h2 style="color:rgb(99, 245, 21);"> Hi there, I' am Be Tu.</h2>
+  <h2 style="color:rgb(99, 245, 21);"> Hi there, I' am Be Tu. :( </h2>
 
-Iam a Software Developer who enjoys tackling frontend challenges (I also do fullstack btw).
+Iam a Software Developer who enjoys tackling frontend challenges (I also do fullstack with MERN btw).
 <br />
---------------------------Let’s collaborate in open source and crate something amazing.---------------------------------------------</p>
 
 ---
 <table align="center">
