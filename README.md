@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, there. I'm Bethwel Kiplagat</h1>
-<p align="center">A Software Engineer & Community Leader building impactful digital experiences that bridge technology and human potential. Technical Co-founder at Crezine Cashdoor.</p>
+<p align="center">Software Engineer & Technology Enthusiast building impactful digital experiences.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iambethwelkiplagat/" target="_blank">
@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am a **Software Engineer** & **Community Leader** passionate about building impactful digital experiences that bridge technology and human potential. I serve as the **Technical Co-founder at Crezine Cashdoor**, focusing on architecting scalable systems, AI toolings, terminal utilities, and Lightning-powered applications.
+I am a **Software Engineer** and **Technology Enthusiast** focused on building scalable web applications, AI tooling, terminal orchestrators, and Lightning-powered systems.
 
 ---
 
@@ -88,18 +88,18 @@ I am a **Software Engineer** & **Community Leader** passionate about building im
 
 ## Let's Connect
 
-If you’re a recruiter, mentor, collaborator, or fellow developer, feel free to connect with me!
-
-- **LinkedIn:** [Bethwel Kiplagat](https://www.linkedin.com/in/iambethwelkiplagat/)
-- **Email:** [kiplagatbethwelk@gmail.com](mailto:kiplagatbethwelk@gmail.com)
-- **X (Twitter):** [@am_kiplagat](https://twitter.com/am_kiplagat)
-- **Instagram:** [@am_kiplagat](https://www.instagram.com/am_kiplagat)
-- **Medium:** [@iamkiplagat](https://medium.com/@iamkiplagat)
-- **Sessionize:** [bethwel-kiplagat](https://sessionize.com/bethwel-kiplagat)
-- **GitHub:** [bethwel3001](https://github.com/bethwel3001)
-- **Portfolio:** [bethwell.vercel.app](https://bethwell.vercel.app)
-- **Discord:** [Connect on Discord](https://discordapp.com/users/1200355688484966410)
+<p align="center">
+  <a href="https://www.linkedin.com/in/iambethwelkiplagat/" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="mailto:kiplagatbethwelk@gmail.com"><b>Email</b></a> &nbsp;•&nbsp;
+  <a href="https://twitter.com/am_kiplagat" target="_blank"><b>X (Twitter)</b></a> &nbsp;•&nbsp;
+  <a href="https://www.instagram.com/am_kiplagat" target="_blank"><b>Instagram</b></a> &nbsp;•&nbsp;
+  <a href="https://medium.com/@iamkiplagat" target="_blank"><b>Medium</b></a> &nbsp;•&nbsp;
+  <a href="https://sessionize.com/bethwel-kiplagat" target="_blank"><b>Sessionize</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/bethwel3001" target="_blank"><b>GitHub</b></a> &nbsp;•&nbsp;
+  <a href="https://bethwell.vercel.app" target="_blank"><b>Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://discordapp.com/users/1200355688484966410" target="_blank"><b>Discord</b></a>
+</p>
 
 ---
 
-> _"Building impactful digital experiences that bridge technology and human potential."_
+> _"Building impactful digital experiences."_
