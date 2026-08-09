@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello, there. I'm Bethwel Kiplagat</h1>
-<p align="center">Software Engineer & Technology Enthusiast building impactful digital experiences.</p>
+<h1 align="center">I'm Bethwel</h1>
+<p align="center">Software Engineer & Open Source Contributor building useful tools and software.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iambethwelkiplagat/" target="_blank">
@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am a **Software Engineer** and **Technology Enthusiast** focused on building scalable web applications, AI tooling, terminal orchestrators, and Lightning-powered systems.
+I am a **Software Engineer** and **Open Source Contributor**. I enjoy building practical developer tools, terminal utilities, AI-powered backends, and exploring new tech.
 
 ---
 
@@ -95,11 +95,10 @@ I am a **Software Engineer** and **Technology Enthusiast** focused on building s
   <a href="https://www.instagram.com/am_kiplagat" target="_blank"><b>Instagram</b></a> &nbsp;•&nbsp;
   <a href="https://medium.com/@iamkiplagat" target="_blank"><b>Medium</b></a> &nbsp;•&nbsp;
   <a href="https://sessionize.com/bethwel-kiplagat" target="_blank"><b>Sessionize</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/bethwel3001" target="_blank"><b>GitHub</b></a> &nbsp;•&nbsp;
   <a href="https://bethwell.vercel.app" target="_blank"><b>Portfolio</b></a> &nbsp;•&nbsp;
   <a href="https://discordapp.com/users/1200355688484966410" target="_blank"><b>Discord</b></a>
 </p>
 
 ---
 
-> _"Building impactful digital experiences."_
+> _"Building useful tools and software."_
