@@ -1,6 +1,6 @@
 # I'm Bethwel
 
-Software Engineer & Open Source Contributor building developer tooling, backend systems, and web applications.
+Software Engineering major and Open source contributor.
 
 ---
 
