@@ -7,17 +7,15 @@
   <a href="mailto:hello@bethwel.tech"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
 I'm a software engineer and community builder based in Kenya. I mentor student leaders across Africa at GKSS and lead developer communities, advocating for open-source collaboration, resilient web engineering, and offline-first capabilities.
 
-## What I work on
+### What I work on
 
 - Resilient web architectures & building for disconnection: offline-first Progressive Web Apps (PWAs), cache-first service worker strategies, and open web platform standards
 - Speed, performance & modern web engineering: sub-second latency, zero-client bloat, streaming server rendering, and Core Web Vitals optimization
 - Privacy-first systems & better web principles: local-first state persistence, permission-conscious browser APIs, and secure, respectful user experiences
 
-## Projects
+### Projects
 
 <details open>
 <summary><b>Personal Projects</b></summary>
@@ -39,7 +37,7 @@ I'm a software engineer and community builder based in Kenya. I mentor student l
 
 </details>
 
-## Tech
+### Tech
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" height="40" />
@@ -58,7 +56,5 @@ I'm a software engineer and community builder based in Kenya. I mentor student l
 </p>
 
 <p align="center"><strong>Web Platforms & Systems:</strong> Progressive Web Apps (PWA) · WebSockets · Google Gemini · Ollama · AWS · LangGraph.js · Sentry · GitHub Actions</p>
-
----
 
 <p align="center">Community Lead at <a href="https://gdg.community.dev/gdg-kisumu/">GDG Kisumu</a> · Based in Kisumu, Kenya</p>
